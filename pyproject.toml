@@ -1,0 +1,8 @@
+[project]
+name = "mlviewer"
+version = "0.1.0"
+description = "Gradio UI for viewing the results of ml models"
+
+[build-system]
+build-backend = "flit_core.buildapi"
+requires = ["flit_core >=3.2,<4"]
